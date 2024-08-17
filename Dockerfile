@@ -1,2 +1,1 @@
-FROM admin44449999/aryanmadeallworking
-CMD ["bash","start.sh"]
+FROM admin44449999/aryanmadeallworking:latest
